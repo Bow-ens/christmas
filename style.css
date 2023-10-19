@@ -3,7 +3,8 @@
 
 body,
 html {
-  background-image: linear-gradient(#ff3d3d, lime);
+  background-image:url('attempt23.gif'); background-repeat:no-repeat;
+  background-size: cover;
   background-attachment: fixed;
   font-family: 'Mountains of Christmas', lobster;
   -webkit-touch-callout: none; /* iOS Safari */
@@ -34,6 +35,8 @@ span {
 p {
   text-align: center;
   font-size: 5vh;
+  background-color:#ff6666;
+  width:max-content; 
 }
 a {
   font-size:200%;
@@ -42,4 +45,15 @@ a {
 h6 {
   text-align: center;
   font-size: 2vh;
+}
+
+h1 {
+  background-color:#5eec4b;
+  width:max-content; 
+}
+
+
+span {
+  background-color:#5eec4b;
+  width:max-content; 
 }
