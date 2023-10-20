@@ -52,12 +52,14 @@ h6 {
 }
 
 h1 {
+  color:white;
   background-color:#000000;
   width:max-content; 
 }
 
 
 span {
+  color:white;
   background-color:#000000;
   width:max-content; 
 }
