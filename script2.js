@@ -1,6 +1,6 @@
 var clicks = 0;
 var refreshRate = 100; //time in milliseconds
-var currentYearPrefix = 20;
+var currentYearPrefix = 2022;
 
 function updateTime() {
   let currentTime = new Date();
