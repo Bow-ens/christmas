@@ -1,1 +1,1 @@
-how bout u dont copy my website
+Type: https://countdown23.github.io/holiday/index.html and click the holiday you want to see the countdown for.
