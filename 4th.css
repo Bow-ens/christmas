@@ -3,7 +3,7 @@
 
 body,
 html {
-  background-image:url('halloweenbackground.gif'); background-repeat:no-repeat;
+  background-image:url('4thofjulybackground.gif'); background-repeat:no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: 'Mountains of Christmas', lobster;
@@ -46,7 +46,7 @@ a {
   
 }
 h6 {
-  color:black;
+  color:FF0000;
   text-align: center;
   font-size: 2vh;
 }
@@ -72,5 +72,5 @@ a {
 
 p{
 
-  color:black;
+  color:FF0000;
 }
