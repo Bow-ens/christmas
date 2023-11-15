@@ -38,7 +38,7 @@ span {
 p {
   text-align: center;
   font-size: 5vh;
-  background-color:#fe974b;
+  background-color:#0000FF;
   width:max-content; 
 }
 a {
@@ -53,14 +53,14 @@ h6 {
 
 h1 {
   color:white;
-  background-color:#000000;
+  background-color:#FF0000;
   width:max-content; 
 }
 
 
 span {
   color:white;
-  background-color:#000000;
+  background-color:#FF0000;
   width:max-content; 
 }
 
