@@ -26,7 +26,7 @@ span {
 }
 
 #title {
-  color:white;
+  color:black;
   text-align: center;
   font-size: 12.5vh;
 }
@@ -59,7 +59,7 @@ h1 {
 
 
 span {
-  color:white;
+  color:black;
   background-color:#FF0000;
   width:max-content; 
 }
