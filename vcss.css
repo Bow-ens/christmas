@@ -38,7 +38,7 @@ span {
 p {
   text-align: center;
   font-size: 5vh;
-  background-color:#00ff40;
+  background-color:#ff0000;
   width:max-content; 
 }
 a {
@@ -52,13 +52,13 @@ h6 {
 }
 
 h1 {
-  background-color:#006f00;
+  background-color:#00ff00;
   width:max-content; 
 }
 
 
 span {
-  background-color:#045906;
+  background-color:#0000ff;
   width:max-content; 
 }
 
