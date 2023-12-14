@@ -1,11 +1,11 @@
 var clicks = 0;
 var refreshRate = 100; //time in milliseconds
-var currentYearPrefix = 23;
+var currentYearPrefix = 24;
 
 function updateTime() {
   let currentTime = new Date();
 
-  const christmasDate = new Date('11/23/20' + currentYearPrefix) //2021
+  const christmasDate = new Date('11/28/20' + currentYearPrefix) //2021
 
   let milliseconds;
   let days;
@@ -76,7 +76,7 @@ function updateTime() {
       ft.style.display = "block"
     }
   })
-
+  
 }
 
 updateTime();
