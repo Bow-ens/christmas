@@ -5,7 +5,7 @@ var currentYearPrefix = 25;
 function updateTime() {
   let currentTime = new Date();
 
-  const christmasDate = new Date('2/14/21' + currentYearPrefix) //2021
+  const christmasDate = new Date('2/14/20' + currentYearPrefix) //2021
 
   let milliseconds;
   let days;
