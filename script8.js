@@ -1,5 +1,5 @@
 var clicks = 0;
-var refreshRate = 100; //time in milliseconds
+var refreshRate = 1; //time in milliseconds
 var currentYearPrefix = 26;
 
 function updateTime() {
